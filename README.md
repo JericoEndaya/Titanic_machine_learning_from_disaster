@@ -11,3 +11,6 @@
 
 
 I aim to score above 0.75, I will return to this project with further experience
+
+
+[Titanic_Project_Notebook](https://nbviewer.org/github/JericoEndaya/Titanic_machine_learning_from_disaster/blob/main/Titanic.ipynb)
